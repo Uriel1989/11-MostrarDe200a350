@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\11-MostrarDe200a350\12-MostrarDe200a350\bin\Debug\12-MostrarDe200a350.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\11-MostrarDe200a350\12-MostrarDe200a350\bin\Debug\12-MostrarDe200a350.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\11-MostrarDe200a350\12-MostrarDe200a350\obj\Debug\11-MostrarDe200a350.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\11-MostrarDe200a350\12-MostrarDe200a350\obj\Debug\11-MostrarDe200a350.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\11-MostrarDe200a350\12-MostrarDe200a350\obj\Debug\12-MostrarDe200a350.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\11-MostrarDe200a350\12-MostrarDe200a350\obj\Debug\12-MostrarDe200a350.pdb
